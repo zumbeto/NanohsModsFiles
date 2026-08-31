@@ -433,202 +433,208 @@
       "p2w": false
     },
     {
-  "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP",
-  "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
-  "InASA": true,
-  "p2w": false
-  },
-  {
-    "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Bionic/EVO_Tek_Rex_Character_BP.EVO_Tek_Rex_Character_BP",
-    "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
-    "InASA": true,
-    "p2w": false
-  },
-  {
-    "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Legacy/EVO_Legacy_Rex_Character_BP.EVO_Legacy_Rex_Character_BP",
-    "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
-    "InASA": true,
-    "p2w": false
-  },
-  {
-    "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Paleo/EVO_Paleo_Rex_Character_BP.EVO_Paleo_Rex_Character_BP",
-    "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
-    "InASA": true,
-    "p2w": false
-  },
-  {
-    "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Genesis/EVO_Volcano_Rex_Character_BP.EVO_Volcano_Rex_Character_BP",
-    "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
-    "InASA": true,
-    "p2w": false
-  },
-  {
-    "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Tarbo_Character_BP.EVO_Tarbo_Character_BP",
-    "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
-    "InASA": true,
-    "p2w": false
-  },
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP",
+      "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
+      "InASA": true,
+      "p2w": false
+    },
     {
-  "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/BB_Male_Character_BP.BB_Male_Character_BP",
-  "Taming": "Feed a wild Beetle Larvae Sweet Vegetable Cake to tame it, then feed it Amber to evolve it into the desired beetle.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/BB_Female_Character_BP.BB_Female_Character_BP",
-  "Taming": "Feed a wild Beetle Larvae Sweet Vegetable Cake to tame it, then feed it Amber to evolve it into the desired beetle.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/AB_BB_Female_Character_BP_Child.AB_BB_Female_Character_BP_Child",
-  "Taming": "Feed a wild Beetle Larvae Sweet Vegetable Cake to tame it, then feed it Amber to evolve it into the desired beetle.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/AB_BB_Male_Character_BP_Child.AB_BB_Male_Character_BP_Child",
-  "Taming": "Feed a wild Beetle Larvae Sweet Vegetable Cake to tame it, then feed it Amber to evolve it into the desired beetle.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/AK_BB_Female_Character_BP_Child.AK_BB_Female_Character_BP_Child",
-  "Taming": "Feed a wild Beetle Larvae Sweet Vegetable Cake to tame it, then feed it Amber to evolve it into the desired beetle.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/AK_BB_Male_Character_BP_Child.AK_BB_Male_Character_BP_Child",
-  "Taming": "Feed a wild Beetle Larvae Sweet Vegetable Cake to tame it, then feed it Amber to evolve it into the desired beetle.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/SE_BB_Female_Character_BP_Child.SE_BB_Female_Character_BP_Child",
-  "Taming": "Feed a wild Beetle Larvae Sweet Vegetable Cake to tame it, then feed it Amber to evolve it into the desired beetle.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/SE_BB_Male_Character_BP_Child.SE_BB_Male_Character_BP_Child",
-  "Taming": "Feed a wild Beetle Larvae Sweet Vegetable Cake to tame it, then feed it Amber to evolve it into the desired beetle.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Paleo/EVO_Paleo_Giga_Character_BP.EVO_Paleo_Giga_Character_BP",
-  "Taming": "Approach the EVO Giga with a Giga Heart to initiate the challenge, then survive its attacks until it knocks itself out. Feed it once unconscious.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Genesis/EVO_Volcano_Giga_Character_BP.EVO_Volcano_Giga_Character_BP",
-  "Taming": "Approach the EVO Giga with a Giga Heart to initiate the challenge, then survive its attacks until it knocks itself out. Feed it once unconscious.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Extinction/EVO_Wasteland_Giga_Character_BP.EVO_Wasteland_Giga_Character_BP",
-  "Taming": "Approach the EVO Giga with a Giga Heart to initiate the challenge, then survive its attacks until it knocks itself out. Feed it once unconscious.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP",
-  "Taming": "Approach the EVO Giga with a Giga Heart to initiate the challenge, then survive its attacks until it knocks itself out. Feed it once unconscious.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/PA_Ledu_Character_BP.PA_Ledu_Character_BP",
-  "Taming": "Make it enter its blocking stance, then charge its Kinetic Energy by shooting it and interrupt its Thunderclap to induce torpor. Repeat until knocked out.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/Paleo/PA_Paleo_Ledu_Character_BP.PA_Paleo_Ledu_Character_BP",
-  "Taming": "Make it enter its blocking stance, then charge its Kinetic Energy by shooting it and interrupt its Thunderclap to induce torpor. Repeat until knocked out.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/Valguero/PA_Val_Ledu_Character_BP.PA_Val_Ledu_Character_BP",
-  "Taming": "Make it enter its blocking stance, then charge its Kinetic Energy by shooting it and interrupt its Thunderclap to induce torpor. Repeat until knocked out.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/PA_Empiro_Character_BP.PA_Empiro_Character_BP",
-  "Taming": "While it is basking, ignite its sail to enrage it, then survive its attacks until it overheats and shoots its sail to induce torpor. Repeat until knocked out.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/ARKOLOGYOE-DESOLATITAN/Content/Desolatitan/ARKOLOGY_Desolatitan_Character_BP.ARKOLOGY_Desolatitan_Character_BP",
-  "Taming": "Damage the Desolatitan until it enrages, then avoid it until it becomes exhausted and passively feed it. Repeat until tamed.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/ARKOLOGYOE-DESOLATITAN/Content/Desolatitan/Desolatitan_Character_BP.Desolatitan_Character_BP",
-  "Taming": "Damage the Desolatitan until it enrages, then avoid it until it becomes exhausted and passively feed it. Repeat until tamed.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/ARKOLOGYOE-DESOLATITAN/Content/Desolatitan/Scorched_Desolatitan_Character_BP.Scorched_Desolatitan_Character_BP",
-  "Taming": "Damage the Desolatitan until it enrages, then avoid it until it becomes exhausted and passively feed it. Repeat until tamed.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/ARKOLOGYOE-DESOLATITAN/Content/Desolatitan/Snow_Desolatitan_Character_BP.Snow_Desolatitan_Character_BP",
-  "Taming": "Damage the Desolatitan until it enrages, then avoid it until it becomes exhausted and passively feed it. Repeat until tamed.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/Supercephalosornis/Dinos/Supercephalosornis/Blueprints/Supercephalosornis_Character_BP_C.Supercephalosornis_Character_BP_C",
-  "Taming": "Steal a real egg from a guarded nest and hatch it to raise a Supercephalosornis.",
-  "InASA": true,
-  "p2w": true
-},
-{
-  "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T1.K_ZaldrirDragon_Character_BP_T1",
-  "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T2.K_ZaldrirDragon_Character_BP_T2",
-  "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T3.K_ZaldrirDragon_Character_BP_T3",
-  "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T4.K_ZaldrirDragon_Character_BP_T4",
-  "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T5.K_ZaldrirDragon_Character_BP_T5",
-  "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
-  "InASA": true,
-  "p2w": false
-},
-{
-  "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_Alpha.K_ZaldrirDragon_Character_BP_Alpha",
-  "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
-  "InASA": true,
-  "p2w": false
-}
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Bionic/EVO_Tek_Rex_Character_BP.EVO_Tek_Rex_Character_BP",
+      "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Legacy/EVO_Legacy_Rex_Character_BP.EVO_Legacy_Rex_Character_BP",
+      "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Paleo/EVO_Paleo_Rex_Character_BP.EVO_Paleo_Rex_Character_BP",
+      "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Genesis/EVO_Volcano_Rex_Character_BP.EVO_Volcano_Rex_Character_BP",
+      "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Tarbo_Character_BP.EVO_Tarbo_Character_BP",
+      "Taming": "Drag a large creature corpse to the EVO Rex to gain its trust, then mount it and hunt the targets it marks.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/BB_Larvae_Character_BP.BB_Larvae_Character_BP",
+      "Taming": "Feed a wild Beetle Larvae Sweet Vegetable Cake to tame it.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/BB_Male_Character_BP.BB_Male_Character_BP",
+      "Taming": "This beetle cannot be tamed directly. Find and tame a wild Beetle Larvae using Sweet Vegetable Cake, then feed the tamed larvae Amber to evolve it into this beetle.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/BB_Female_Character_BP.BB_Female_Character_BP",
+      "Taming": "This beetle cannot be tamed directly. Find and tame a wild Beetle Larvae using Sweet Vegetable Cake, then feed the tamed larvae Amber to evolve it into this beetle.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/AB_BB_Female_Character_BP_Child.AB_BB_Female_Character_BP_Child",
+      "Taming": "This beetle cannot be tamed directly. Find and tame a wild Beetle Larvae using Sweet Vegetable Cake, then feed the tamed larvae Amber to evolve it into this beetle.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/AB_BB_Male_Character_BP_Child.AB_BB_Male_Character_BP_Child",
+      "Taming": "This beetle cannot be tamed directly. Find and tame a wild Beetle Larvae using Sweet Vegetable Cake, then feed the tamed larvae Amber to evolve it into this beetle.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/AK_BB_Female_Character_BP_Child.AK_BB_Female_Character_BP_Child",
+      "Taming": "This beetle cannot be tamed directly. Find and tame a wild Beetle Larvae using Sweet Vegetable Cake, then feed the tamed larvae Amber to evolve it into this beetle.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/AK_BB_Male_Character_BP_Child.AK_BB_Male_Character_BP_Child",
+      "Taming": "This beetle cannot be tamed directly. Find and tame a wild Beetle Larvae using Sweet Vegetable Cake, then feed the tamed larvae Amber to evolve it into this beetle.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/SE_BB_Female_Character_BP_Child.SE_BB_Female_Character_BP_Child",
+      "Taming": "This beetle cannot be tamed directly. Find and tame a wild Beetle Larvae using Sweet Vegetable Cake, then feed the tamed larvae Amber to evolve it into this beetle.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/TAC_Bastion_Beetle/Content/BastionBeetle/Variants/SE_BB_Male_Character_BP_Child.SE_BB_Male_Character_BP_Child",
+      "Taming": "This beetle cannot be tamed directly. Find and tame a wild Beetle Larvae using Sweet Vegetable Cake, then feed the tamed larvae Amber to evolve it into this beetle.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Paleo/EVO_Paleo_Giga_Character_BP.EVO_Paleo_Giga_Character_BP",
+      "Taming": "Approach the EVO Giga with a Giga Heart to initiate the challenge, then survive its attacks until it knocks itself out. Feed it Exceptional Kibble, Raw Mutton, or Raw Prime Meat once unconscious.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Genesis/EVO_Volcano_Giga_Character_BP.EVO_Volcano_Giga_Character_BP",
+      "Taming": "Approach the EVO Giga with a Giga Heart to initiate the challenge, then survive its attacks until it knocks itself out. Feed it Exceptional Kibble, Raw Mutton, or Raw Prime Meat once unconscious.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Extinction/EVO_Wasteland_Giga_Character_BP.EVO_Wasteland_Giga_Character_BP",
+      "Taming": "Approach the EVO Giga with a Giga Heart to initiate the challenge, then survive its attacks until it knocks itself out. Feed it Exceptional Kibble, Raw Mutton, or Raw Prime Meat once unconscious.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP",
+      "Taming": "Approach the EVO Giga with a Giga Heart to initiate the challenge, then survive its attacks until it knocks itself out. Feed it Exceptional Kibble, Raw Mutton, or Raw Prime Meat once unconscious.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/PA_Ledu_Character_BP.PA_Ledu_Character_BP",
+      "Taming": "Make it enter its blocking stance, then charge its Kinetic Energy by shooting it and interrupt its Thunderclap to induce torpor. Repeat until knocked out, then feed it Extraordinary Kibble.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/Paleo/PA_Paleo_Ledu_Character_BP.PA_Paleo_Ledu_Character_BP",
+      "Taming": "Make it enter its blocking stance, then charge its Kinetic Energy by shooting it and interrupt its Thunderclap to induce torpor. Repeat until knocked out, then feed it Extraordinary Kibble.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/Valguero/PA_Val_Ledu_Character_BP.PA_Val_Ledu_Character_BP",
+      "Taming": "Make it enter its blocking stance, then charge its Kinetic Energy by shooting it and interrupt its Thunderclap to induce torpor. Repeat until knocked out, then feed it Extraordinary Kibble.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/PA_Empiro_Character_BP.PA_Empiro_Character_BP",
+      "Taming": "While it is basking, ignite its sail to enrage it, then survive its attacks until it overheats and shoots its sail to induce torpor. Repeat until knocked out, then feed it Extraordinary Kibble or Raw Mutton.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/ARKOLOGYOE-DESOLATITAN/Content/Desolatitan/ARKOLOGY_Desolatitan_Character_BP.ARKOLOGY_Desolatitan_Character_BP",
+      "Taming": "Damage the Desolatitan until it enrages, then avoid it until it becomes exhausted and passively feed it Extraordinary Kibble or Raw Mutton. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/ARKOLOGYOE-DESOLATITAN/Content/Desolatitan/Desolatitan_Character_BP.Desolatitan_Character_BP",
+      "Taming": "Damage the Desolatitan until it enrages, then avoid it until it becomes exhausted and passively feed it Extraordinary Kibble or Raw Mutton. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/ARKOLOGYOE-DESOLATITAN/Content/Desolatitan/Scorched_Desolatitan_Character_BP.Scorched_Desolatitan_Character_BP",
+      "Taming": "Damage the Desolatitan until it enrages, then avoid it until it becomes exhausted and passively feed it Extraordinary Kibble or Raw Mutton. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/ARKOLOGYOE-DESOLATITAN/Content/Desolatitan/Snow_Desolatitan_Character_BP.Snow_Desolatitan_Character_BP",
+      "Taming": "Damage the Desolatitan until it enrages, then avoid it until it becomes exhausted and passively feed it Extraordinary Kibble or Raw Mutton. Repeat until tamed.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/Supercephalosornis/Dinos/Supercephalosornis/Blueprints/Supercephalosornis_Character_BP_C.Supercephalosornis_Character_BP_C",
+      "Taming": "Use loud noises or explosives away from the nest to distract the parent, then steal the real egg. Red pulsing eggs are decoys and will explode if grabbed; hatch the real egg to raise a Supercephalosornis.",
+      "InASA": true,
+      "p2w": true
+    },
+    {
+      "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T1.K_ZaldrirDragon_Character_BP_T1",
+      "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T2.K_ZaldrirDragon_Character_BP_T2",
+      "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T3.K_ZaldrirDragon_Character_BP_T3",
+      "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T4.K_ZaldrirDragon_Character_BP_T4",
+      "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_T5.K_ZaldrirDragon_Character_BP_T5",
+      "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
+      "InASA": true,
+      "p2w": false
+    },
+    {
+      "Dino": "/DragonKingdom/Dragons/ZD1/K_ZaldrirDragon_Character_BP_Alpha.K_ZaldrirDragon_Character_BP_Alpha",
+      "Taming": "Feed a sleeping Zaldrir Raw Mutton, then feed it tamed live sheep and hunt large creatures once it becomes rideable.",
+      "InASA": true,
+      "p2w": false
+    }
   ]
 }
